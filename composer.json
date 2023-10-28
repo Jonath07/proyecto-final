@@ -1,0 +1,21 @@
+{
+    "name": "yocotec/software",
+    "description": "Desarrollador Web",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jonathan josue gonzalez cordon",
+            "email": "josuecordon7@gmail.com"        
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "YocoTec\\":"src/"
+        }
+    }
+
+}
